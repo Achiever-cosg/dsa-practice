@@ -1,2 +1,2 @@
-# coding-questions-practice
+# DSA-practice
 Repo for DSA questions practice
